@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Moez Mahmoud</h1>
 <h3 align="center">A passionate Software Engineering student | Fullstack web developer</h3>
 
+- 👨‍🎓 I'm currently a student at **Private Higher School of Engineering and Technology (ESPRIT)**
+
 - 🔭 I’m currently working on a [Hackathon Plateform](https://github.com/moiyse/Hackathon)
 
 - 🌱 I’m currently learning **DevOps**
@@ -11,7 +13,7 @@
 
 - 📄 Know about my experiences from my [Curriculum Vitae](https://drive.google.com/file/d/1EjtGLA7IrIY7-jDcrLS14tjtfm0LMdBz/view?usp=share_link)
 
-- ⚡ Fun fact **I try to be funny**
+- ⚡ Fun fact **Blockchain hasn't met my expectations**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
