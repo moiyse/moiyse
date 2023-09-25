@@ -31,7 +31,7 @@
 
 - 👨‍🎓 I'm currently a student at **Private Higher School of Engineering and Technology (ESPRIT)**
 
-- 🔭 I’m currently working on **Something Fun**
+- 🔭 I’m currently working on **Improving My Skills**
 
 - 🌱 I’m currently learning **DevOps**
 
