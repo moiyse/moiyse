@@ -39,8 +39,6 @@
 
 - 📫 How to reach me **moez.mahmoud@esprit.tn**
 
-- 📄 Know about my experiences from my [Curriculum Vitae](https://drive.google.com/file/d/1i4brP9n19_96ONMYJiQEeds06kolkSzu/view?usp=share_link)
-
 - ⚡ Fun fact **Blockchain hasn't met my expectations**
 
 <!--<h3 align="left">Connect with me:</h3>
